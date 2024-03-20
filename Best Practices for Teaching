@@ -1,4 +1,4 @@
-Before the Lesson
+#Before the Lesson
 Discuss the artifact before your students begin annotation, so students will have a clear sense of what to observe and annotate in the recording.
 Direct students to make a Github account before the workshop. 
 Tell students to bring headphones to class if the recording to be annotated contains sound.
@@ -6,3 +6,18 @@ Have a clear learning objective for using AVAnnotate: this might be situating yo
 Give students as much information in advance as possible, such as the direct link to the recording file or a pre-existing IIIF manifest if the artifact has one, the layers to be used, a short example project, a raw annotation spreadsheet, and a link to the How to Use page including our annotation template.
 Decide whether the AVAnnotate project will be a formative or summative assignment. If it is formative, you may want to accept completed annotation spreadsheets if students fail to complete a project in the time allotted. If it is summative, you should give students ample time to not only complete annotations, but perfect their final project.
 Remember: the more freedom students are given in designing their annotation projects, the more they will need to understand the organizing elements of AVAnnotate: layers, index, the definition of an annotation etc. This will help students decide for themselves how to maximize the layout of AVAnnotate to best present the annotations. Please consult the Annotation Guide and the FAQ page in order to fluently define these terms for your students. For a short assignment, you may want to assign specific layers to be used in the assignment (see the example assignment below).
+
+#During the Lesson
+Tell students how to format their annotation files using the AVAnnotate template. This may include how to format time stamps by writing out a correct time stamp format or showing an example spreadsheet, the difference between annotating a point in time or a duration of time, how long annotation intervals should be (generally shorter or divided by speaker), what type of annotations they should write, and layers as the organizing principle for AVAnnotate project.
+Discuss the Index function as akin to a book index that lists multiple annotations by common topic or reference across a project if you have decided to use the index for the assignment.
+Give students ample time to independently annotate the assigned recording. Careful annotation may take longer than students imagine. We recommend giving students at least 30 minutes to create annotations in-class, allowing them to practice close-listening.
+Circulate among your students as they create annotations to make sure all cells are correctly filled and formatted and to discuss their ideas about the recordings.
+Leave 20 minutes to show students how to create an AVAnnotate project including: logging into Github, inputting a link to the file, noting the recording’s duration, briefly describing the recording, ensuring that all annotations are formatted correctly, providing time for the project to build on GitHub, and briefly showing students how to customize their AVAnnotate projects by adding additional pages or customizing the landing page.
+
+#After the Lesson
+Debrief the annotation process with your students and what it has revealed about the recording.
+Questions may include: What did slowing down to annotate this artifact help you notice about it that you had not previously or that you might not have if you had listened to it straight through without annotation? 
+What layers did you select and how did these layers inform your annotation process? What might they tell you about the artifact?
+If transcribing, what elements of the recording surpassed or complicated the transcription? What might this tell us about the speakers or context?
+Explain the criteria for evaluating student projects. While the criteria will differ by discipline some common criteria includes: (1) the depth or quality of the annotations, (2) the comprehensiveness of recording’s transcript, (3) the application of course content (like film vocabulary or interviewing strategies) in the annotations, (4) the project’s overall design.
+Direct students to our Contact Us page if any troubleshooting is needed beyond your capacity.
